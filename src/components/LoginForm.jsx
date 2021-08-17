@@ -37,7 +37,7 @@ const Modal = () => {
       <iframe
         id="inlineFrameExample"
         title="Inline Frame Example"
-        width="400"
+        width="500"
         height="600"
         src="https://react-ts-memory.vercel.app/"
       ></iframe>
